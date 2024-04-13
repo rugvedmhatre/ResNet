@@ -5,6 +5,8 @@ ResNet Model trained to classify images on CIFAR-10 dataset
 
 The model with the best accuracy is present in: [Notebooks/resnet-34-dropout.ipynb](https://github.com/rugvedmhatre/ResNet/blob/main/Notebooks/resnet-34-dropout.ipynb)
 
+*Note: The resnet-34-dropout.ipynb file is also copied here in the base folder for easy evaluation*
+
 | Parameter/Output | Value |
 | ---------------- | ----- |
 | Best Test Accuracy | **95.370%** |
